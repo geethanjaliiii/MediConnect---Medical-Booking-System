@@ -3,4 +3,4 @@ export class Address{
     getAddress():string {
         return `${this.city}, ${this.state}`
     }
-} 
+}  
